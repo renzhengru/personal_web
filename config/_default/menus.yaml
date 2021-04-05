@@ -34,5 +34,9 @@ main:
     weight: 50
 
   - name: Publication
-    url: 'publication/'
+    url: 'publication/publication_list'
+    weight: 60  
+
+  - name: MarIn toolbox
+    url: 'marin/toolbox'
     weight: 60  

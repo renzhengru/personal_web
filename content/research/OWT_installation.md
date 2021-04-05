@@ -28,3 +28,4 @@ design:
 Add any content to the body of the section here.
 
 ![OWT](/research/OWT_installation/blade_installation_2.jpg)
+

@@ -26,7 +26,7 @@ education:
     institution: Department of Marine Technology, Norwegian University of Science and Technology, Trondheim, Norway
     year: 2013-2015
   - course: BEng in Artificial Intelligence
-    institution: Department of Naval Architecture and Offshore engineering, Dalian University of Science, China
+    institution: Department of Naval Architecture and Offshore engineering, Dalian University of Science and Technology, China
     year: 2008-2012
 
 # Interests to show in About widget
