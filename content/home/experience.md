@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Working Experience
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: Postdoc research fellow
+    company: Department of Marine Technology, Centre for Research-based Innovation of Marine Operations (SFI MOVE)， Norwegian University of Science and Technology (NTNU)
+    company_url: 'https://www.ntnu.edu/move'
+    location: Trondheim, Norway
+    date_start: '2019-08-21'
+    date_end: '2021-08-21'
+    description: 'Topic: Onboard decision support system'
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Researcher
+    company: Department of Oceans Operations and Civil Engineering, Norwegian University of Science and Technology
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Trondheim, Norway
+    date_start: '2019-04-01'
+    date_end: '2019-08-21'
+    description: 'Topic: Simulation and control of floating wind turbine installation'
+
 ---
