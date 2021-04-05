@@ -1,28 +1,31 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-# This file represents a page section.
-headless: true
+title: "Sea state estimation based on vessel responses"
+subtitle: ""
+summary: "We introudce Bezier suface and sparse regression to wave buoy analog."
+authors: []
+tags: []
+categories: []
+date: 2021-04-06T00:26:00+02:00
+lastmod: 2021-04-06T00:26:00+02:00
+featured: false
+draft: false
 
-# Order that this section appears on the page.
-weight: 10
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
-# Section title
-title: Sea state estimation based on vessel responses
-
-# Section subtitle
-subtitle:
-
-# Section design
-design:
-  # Use a 1-column layout
-  columns: "1"
-  # Use a dark navy background with light text.
-  background:
-    color: 'navy'
-    text_color_light: true
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 ## Sea state estimation from vessel motion responses: Smoothness and robustness using Bezier surface and L1 optimization
