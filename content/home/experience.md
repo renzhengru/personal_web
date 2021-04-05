@@ -33,7 +33,7 @@ experience:
   - title: Researcher
     company: Department of Oceans Operations and Civil Engineering, Norwegian University of Science and Technology
     company_url: ''
-    location: Trondheim, Norway
+    location: Ålesund, Norway
     date_start: '2019-04-01'
     date_end: '2019-08-21'
     description: 'Topic: Simulation and control of floating wind turbine installation'

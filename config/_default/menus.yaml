@@ -29,14 +29,14 @@ main:
     url: 'teaching/' 
     weight: 40  
 
-  - name: Projects
-    url: 'projects/'
-    weight: 50
-
-  - name: Publication
-    url: 'publication/publication_list'
-    weight: 60  
+  # - name: Projects
+  #   url: 'projects/'
+  #   weight: 50
 
   - name: MarIn toolbox
     url: 'marin/toolbox'
     weight: 60  
+    
+  - name: Publication
+    url: 'publication/publication_list'
+    weight: 80  
