@@ -67,6 +67,7 @@ Second, the potential of sparseness in the ocean wave spectrum is realized throu
 
 **Report**: [Norwegian SciTech News](https://norwegianscitechnews.com/2021/03/using-ships-themselves-to-monitor-and-predict-ocean-conditions/), 
 [EurekAlert](https://www.eurekalert.org/pub_releases/2021-03/nuos-ust031821.php), 
+[TU.no](https://www.tu.no/artikler/skip-kan-selv-overvake-og-forutsi-bolger/508790?utm_source=newsletter-tudaily&utm_medium=email&utm_campaign=newsletter-2021-04-07), 
 [Press-News](https://press-news.org/158275-using-ships-themselves-to-monitor-and-predict-waves.html), 
 [One American Northwest Arkansas](https://oanwa.com/science/using-ships-themselves-to-monitor-and-predict-waves/), 
 [WorldNewsEra](https://worldnewsera.com/news/science/using-ships-themselves-to-monitor-and-predict-waves/)
