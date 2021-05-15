@@ -2,9 +2,9 @@
 widget: blank
 headless: true
 weight: 10
-title: MarIn toolbox
+title: 
 subtitle:
-date: 2021-04-05
+date: 
 
 # Section design
 design:

@@ -37,7 +37,7 @@ Compared with onshore wind turbines, offshore wind turbines (OWTs) have many adv
 The sizes and weights of OWT structures have grown dramatically. For example, the height of the newly launched 15MW wind turbine from Vestas reaches 261 m, while the Eiffel tower is only 324 m tall. Though the benefits of extremely large structures are welcomed by industry and researchers, the trend engenders new challenges with the offshore installation process. With increasing installation heights and increasing weights of the payloads, higher and more powerful cranes are required to accomplish the specific offshore operations. For some complex projects, only a small range of vessels is capable of executing the tasks, which may limit the development of the relevant industry. It is easy to image the challenges to installation an Eiffel tower, especially the tower floats on the water and moves with waves.
 
 <figure>
-  <img src="/research/OWT_installation_low_height/Picture2.jpg" alt="{}" style="width:70%" >
+  <img src="/research/OWT_installation_low_height/Picture2.png" alt="{}" style="width:70%" >
   <figcaption>Wind turbines are becoming bigger and bigger.  </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ A lift wire can only provide tension when the elongation is larger than or equal
 Inspired by knowledge from localization and inverse dynamics, the research team proposed a model-free control strategy to achieve an anti-swing control which stabilizes the payload in the air at the tower bottom center and maintains the orientation such that it achieves a smooth mating operation.
 
 <figure>
-  <img src="/research/OWT_installation_low_height/Picture4.jpg" alt="{}" style="width:70%" >
+  <img src="/research/OWT_installation_low_height/Picture4.png" alt="{}" style="width:70%" >
   <figcaption>The innovative idea of the model-free control strategy </figcaption>
 </figure>
 
