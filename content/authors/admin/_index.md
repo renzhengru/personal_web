@@ -25,7 +25,6 @@ education:
   - course: MSc in Marine Cybernetics
     institution: Department of Marine Technology, Norwegian University of Science and Technology, Trondheim, Norway
     year: 2013-2015
-<<<<<<< HEAD
   - course: BEng in Ocean Engineering
     institution: Department of Naval Architecture and Offshore engineering, Dalian University of Technology, China
     year: 2008-2012
