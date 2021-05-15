@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Offshore wind turbine installation"
+title: "To install future supertall floating offshore wind turbines in deep sea"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2021-04-06T00:25:51+02:00
-lastmod: 2021-04-06T00:25:51+02:00
+date: 2021-05-15T22:12:45+02:00
+lastmod: 2021-05-15T22:12:45+02:00
 featured: false
 draft: false
 
