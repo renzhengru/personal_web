@@ -28,7 +28,7 @@ experience:
     location: Trondheim, Norway
     date_start: '2019-08-21'
     date_end: '2021-08-21'
-    description: 'Topic: Onboard decision support system'
+    description: 'Topic: Onboard decision support and digitization in intelligent marine operations'
         
   - title: Researcher
     company: Department of Oceans Operations and Civil Engineering, Norwegian University of Science and Technology
