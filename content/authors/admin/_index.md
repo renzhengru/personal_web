@@ -82,5 +82,8 @@ highlight_name: true
 
 Zhengru Ren received the B.Eng. degree in naval architecture and offshore engineering from the Dalian University of Technology, Dalian, China, in 2012, and the M.Sc. and Ph.D. degrees in marine technology from the Norwegian University of Science and Technology (NTNU), Trondheim, Norway, in 2015 and 2019, respectively. From April to August 2019, he was a Researcher with the Department of Ocean Operations and Civil Engineering, NTNU. He is currently a Postdoctoral Research Fellow with the Centre for Research-based Innovation on Marine Operations (SFI MOVE), Department of Marine Technology, NTNU. His research interests are within nonlinear control theory, sensor fusion, offshore wind energy, intelligent marine operations, and digitalization.
 
-
+<figure>
+  <img src="/research/sea_state_est/sparsity.PNG" alt="{Sparsity of a directional wave spectrum with different thresholds}" style="width:70%" >
+  <figcaption>Fig 4. Sparsity of a directional wave spectrum with different thresholds </figcaption>
+</figure>
 
