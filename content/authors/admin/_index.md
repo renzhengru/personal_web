@@ -25,18 +25,25 @@ education:
   - course: MSc in Marine Cybernetics
     institution: Department of Marine Technology, Norwegian University of Science and Technology, Trondheim, Norway
     year: 2013-2015
+<<<<<<< HEAD
   - course: BEng in Ocean Engineering
     institution: Department of Naval Architecture and Offshore engineering, Dalian University of Science and Technology, China
+=======
+  - course: BEng in Offshore Engineering
+    institution: Department of Naval Architecture and Offshore Engineering, Dalian University of Science and Technology, China
+>>>>>>> cf1598a9360cbed58bece4a619e772d1322bfab3
     year: 2008-2012
 
 # Interests to show in About widget
 interests:
+- Maritime digitalization
+- Marine operations
+- Offshore wind energy
 - Nonlinear control theory
 - Sensor fusion
-- Marine operation
-- Offshore wind energy
+- Model identification
 - Sea state estimation
-- Dynamic positioning (DP) system/Thruster-assisted position mooring (TAPM) system
+- Dynamic positioning (DP) system
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,11 +67,11 @@ social:
   # link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/doc/CV.pdf
+  link: static/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
