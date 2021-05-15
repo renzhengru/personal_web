@@ -66,7 +66,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/CV.pdf
+  link: CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,8 +75,15 @@ email: ""
 highlight_name: true
 ---
 
-Zhengru Ren received the B.Eng. degree in naval architecture and offshore engineering from the Dalian University of Technology, Dalian, China, in 2012, and the M.Sc. and Ph.D. degrees in marine technology from the Norwegian University of Science and Technology (NTNU), Trondheim, Norway, in 2015 and 2019, respectively. From April to August 2019, he was a Researcher with the Department of Ocean Operations and Civil Engineering, NTNU. He is currently a Postdoctoral Research Fellow with the Centre for Research-based Innovation on Marine Operations (SFI MOVE), Department of Marine Technology, NTNU. His research interests are within nonlinear control theory, sensor fusion, offshore wind energy, intelligent marine operations, and digitalization.
+I received the B.Eng. degree in naval architecture and offshore engineering from the Dalian University of Technology, Dalian, China, in 2012, and the M.Sc. and Ph.D. degrees in marine technology from the Norwegian University of Science and Technology (NTNU), Trondheim, Norway, in 2015 and 2019, respectively. From April to August 2019, I was a Researcher with the Department of Ocean Operations and Civil Engineering, NTNU. I am currently a Postdoctoral Research Fellow with the Centre for Research-based Innovation on Marine Operations (SFI MOVE), Department of Marine Technology, NTNU. 
+
+My research focuses on automation and digitalization in marine operations, especially on marine surface vessels and offshore wind turbines (OWTs). The major tasks of my Ph.D. study and PostDoc work focus on applying various control theories and sensor fusion techniques to enhance the automation level of various onboard control systems and improve the safety and efficiency in marine operations and renewable wind energy. 
+
+I have published 24 journal articles (including Marine Structures, Ocean Engineering, Renewable & Sus-tainable Energy Reviews, Mechanical Systems and Signal Processing, etc.) and 12 conference papers with a total citation number of 318 and H-index 11 (until 14/05/2021, Google Scholar). I am the first author of 10 journal publications and 6 conference papers, where 2 journal papers were ESI-highly cited in 2018 and 1 journal paper was ESI-highly cited in 2021. Moreover, I have been a reviewer of 11 international journals and 5 conferences.
+
+Since 2017, I have been involved in co-supervising 1 Ph.D. student and 8 Master's students. I have gained abundant pedagogical experiences through supervision. I would like to evaluate myself as a responsible, efficient, respectful, and generous supervisor during my previous co-supervision. In 2020, I got a chance to give lectures on “Backstepping design on complex nonlinear systems” in a PhD course.
+
 
 <figure>
-  <img src="/Bio_summary/research_summary_20210515.PNG" alt="{Sparsity of a directional wave spectrum with different thresholds}" style="width:80%" >
+  <img src="/Bio_summary/research_summary_20210515.PNG" alt="{Summary of my research}" style="width:100%" >
 </figure>
