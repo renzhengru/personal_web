@@ -59,7 +59,7 @@ Inspired by knowledge from localization and inverse dynamics, the research team 
   <figcaption>The innovative idea of the model-free control strategy </figcaption>
 </figure>
 
-The position of a node is known in three-dimensional space if the distances from the unknown node is measured to at least four landmark points with known positions. We assume that all lift wires are tight with positive tension. Hence, if a payload is lifted by at least four lift wires, on which the connecting points are closed, the position of the connecting point (pci) is easily calculated when the lengths of the lift wires (l1, · · · , l4) and the positions of their base ends (pb1, · · · , pb4) are known. Additionally, the translational motion and rotation of the entire payload are determined if the positions of two connecting points on a payload are controlled.
+The position of a node is known in three-dimensional space if the distances from the unknown node is measured to at least four landmark points with known positions. We assume that all lift wires are tight with positive tension. Hence, if a payload is lifted by at least four lift wires, on which the connecting points are closed, the position of the connecting point ($p_{ci}$) is easily calculated when the lengths of the lift wires $(l_1, \cdots , l_4)$ and the positions of their base ends ($p_{b1}, \cdots, p_{b4}$) are known. Additionally, the translational motion and rotation of the entire payload are determined if the positions of two connecting points on a payload are controlled.
 
 This idea not only works for OWT installation, but also for the other marine systems. Different from the complex theoretical deduction in many academic journal papers, the proposed control law is much friendly.
 
