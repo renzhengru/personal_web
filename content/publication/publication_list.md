@@ -19,7 +19,7 @@ design:
 ## Journal
 ### - 2021 -
 
-{{/* **Zhengru Ren*** and Roger Skjetne. A survey of backstepping control design to ODE systems. Automatica, 2021. Under review, [Q1,IF:6.583]. [[PDF](</papers/.pdf>)] */}}
+[comment]: # **Zhengru Ren*** and Roger Skjetne. A survey of backstepping control design to ODE systems. Automatica, 2021. Under review, [Q1,IF:6.583]. [[PDF](</papers/.pdf>)] 
 
 **Zhengru Ren**, Xu Han, Xingji Yu*, Roger Skjetne, Bernt Johan Leira, Sævik, and Man Zhu. Data-driven identificationof 6DOF dynamic model and wave load estimation for a ship in waves. Mechanical Systems and Signal Processing, 2020. Under review, [Q1,IF:6.471]. [[PDF](</papers/.pdf>)]
 
