@@ -19,13 +19,13 @@ design:
 ## Journal
 ### - 2021 -
 
-**Zhengru Ren*** and Roger Skjetne. A survey of backstepping control design to ODE systems. Automatica, 2021. Under review, [Q1,IF:6.583]. [[PDF](</papers/.pdf>)]
+# **Zhengru Ren*** and Roger Skjetne. A survey of backstepping control design to ODE systems. Automatica, 2021. Under review, [Q1,IF:6.583]. [[PDF](</papers/.pdf>)]
 
 **Zhengru Ren**, Xu Han, Xingji Yu*, Roger Skjetne, Bernt Johan Leira, Sævik, and Man Zhu. Data-driven identificationof 6DOF dynamic model and wave load estimation for a ship in waves. Mechanical Systems and Signal Processing, 2020. Under review, [Q1,IF:6.471]. [[PDF](</papers/.pdf>)]
 
 **Zhengru Ren**, Amrit Shankar Verma, Ye Li*, Julie J.E. Teuwen, and Zhiyu Jiang. Offshore wind turbine operation and maintenance: A state-of-the-art review. Renewable & Sustainable Energy Reviews, 144(110886), 2021. [Q1,IF:12.110]. [[PDF](</papers/[1.19]Offshore wind turbine operations and maintenance A state-of-the-art review.pdf>)]
 
-**Zhengru Ren**, Amrit Verma*, Behfar Ataei, Karl Henning Halse, and Hans Petter Hildre. Model-free anti-swing control of complex-shaped payload with offshore floating cranes and a large number of lift wires. Ocean Engineering, 2020. Accepted, [Q1,IF:3.068]. [[PDF](</papers/.pdf>)]
+**Zhengru Ren**, Amrit Verma*, Behfar Ataei, Karl Henning Halse, and Hans Petter Hildre. Model-free anti-swing control of complex-shaped payload with offshore floating cranes and a large number of lift wires. Ocean Engineering, 228(108868) 2021. [Q1,IF:3.068]. [[PDF](</papers/[1.16]Model-free anti-swing control of complex-shaped payload with offshore floating cranes and a large number of lift wires.pdf>)]
 
 **Zhengru Ren***, Xu Han, Amrit Shankar Verma, Johann Alexander Dirdal, and Roger Skjetne. Sea state estimation based on vessel motion responses: improved smoothness and robustness using Bézier surface and L1 optimization. Marine Structures, 76:102904, 2021. [Q1,IF:3.708]. [[PDF](</papers/[1.18][compressed]Sea state estimation based on vessel response improved smoothness and robustness using B´ezier surface and L1 optimization.pdf>)]
 
@@ -37,7 +37,7 @@ Xu Han*, Bernt Johan Leira, Svein Sævik, and **Zhengru Ren**. Onboard tuning of
 
 Amrit Shankar Verma*, Sandro Di Noi, **Zhengru Ren**, Zhiyu Jiang, and Julie J.E. Teuwen. Advancements in leading edge erosion science of wind turbine blades. Energies, 12(1):50, 2021. [Q3,IF:3.068]. [[PDF](</papers/[Co.27]Minimum Leading Edge Protection Application Length to Combat Rain-Induced Erosion of Wind Turbine Blades.pdf>)]
 
-Hongyu Zhou, **Zhengru Ren***, and Roger Skjetne. Stepwise path planning with anti-collision using stream function for marine vessels. IEEE Transactions on Intelligent Transportation Systems, 2021. Under review, [Q1,IF:6.319]. [[PDF](</papers/.pdf>)]
+# Hongyu Zhou, **Zhengru Ren***, and Roger Skjetne. Stepwise path planning with anti-collision using stream function for marine vessels. IEEE Transactions on Intelligent Transportation Systems, 2021. Under review, [Q1,IF:6.319]. [[PDF](</papers/.pdf>)]
 
 ### - 2020 -
 **Zhengru Ren***, Bo Zhao, and Dong Trong Nguyen. Finite-time neural adaptive control of a class of nonlinear system: Proved by Bernoulli inequality. IEEE Access, 8:47768–47775, 2020. [Q1,IF:3.745]. [[PDF](</papers/[1.17]Finite-Time Backstepping of a Nonlinear System in Strict-Feedback Form Proved by Bernoulli Inequality.pdf>)]
