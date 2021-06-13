@@ -19,7 +19,7 @@ design:
 ## Journal
 ### - 2021 -
 
-# **Zhengru Ren*** and Roger Skjetne. A survey of backstepping control design to ODE systems. Automatica, 2021. Under review, [Q1,IF:6.583]. [[PDF](</papers/.pdf>)]
+{{/* **Zhengru Ren*** and Roger Skjetne. A survey of backstepping control design to ODE systems. Automatica, 2021. Under review, [Q1,IF:6.583]. [[PDF](</papers/.pdf>)] */}}
 
 **Zhengru Ren**, Xu Han, Xingji Yu*, Roger Skjetne, Bernt Johan Leira, Sævik, and Man Zhu. Data-driven identificationof 6DOF dynamic model and wave load estimation for a ship in waves. Mechanical Systems and Signal Processing, 2020. Under review, [Q1,IF:6.471]. [[PDF](</papers/.pdf>)]
 
@@ -37,7 +37,7 @@ Xu Han*, Bernt Johan Leira, Svein Sævik, and **Zhengru Ren**. Onboard tuning of
 
 Amrit Shankar Verma*, Sandro Di Noi, **Zhengru Ren**, Zhiyu Jiang, and Julie J.E. Teuwen. Advancements in leading edge erosion science of wind turbine blades. Energies, 12(1):50, 2021. [Q3,IF:3.068]. [[PDF](</papers/[Co.27]Minimum Leading Edge Protection Application Length to Combat Rain-Induced Erosion of Wind Turbine Blades.pdf>)]
 
-# Hongyu Zhou, **Zhengru Ren***, and Roger Skjetne. Stepwise path planning with anti-collision using stream function for marine vessels. IEEE Transactions on Intelligent Transportation Systems, 2021. Under review, [Q1,IF:6.319]. [[PDF](</papers/.pdf>)]
+/* Hongyu Zhou, **Zhengru Ren***, and Roger Skjetne. Stepwise path planning with anti-collision using stream function for marine vessels. IEEE Transactions on Intelligent Transportation Systems, 2021. Under review, [Q1,IF:6.319]. [[PDF](</papers/.pdf>)] */
 
 ### - 2020 -
 **Zhengru Ren***, Bo Zhao, and Dong Trong Nguyen. Finite-time neural adaptive control of a class of nonlinear system: Proved by Bernoulli inequality. IEEE Access, 8:47768–47775, 2020. [Q1,IF:3.745]. [[PDF](</papers/[1.17]Finite-Time Backstepping of a Nonlinear System in Strict-Feedback Form Proved by Bernoulli Inequality.pdf>)]
