@@ -28,8 +28,6 @@ image:
 projects: []
 ---
 
-## To install future supertall floating offshore wind turbines in deep sea
-
 Among different renewable energy sources, wind power shows great promise due to its relatively high technological readiness level, abundant availability, and relatively low environmental footprint. Energy harvesting via conventional wind turbines is achieved by converting the kinetic energy of the wind into mechanical power through blade rotation, and then into electrical power through generators. 
 
 Compared with onshore wind turbines, offshore wind turbines (OWTs) have many advantages, e.g., abundant wind resources, lower turbulence, substantial space for establishment, lower transmission and distribution losses, less visual impact, and less noise pollution. Given these notable advantages that guarantee reliable energy production, there has been a rapid increase in the demand of OWTs in the last two decades.
