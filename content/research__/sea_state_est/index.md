@@ -71,3 +71,4 @@ Second, the potential of sparseness in the ocean wave spectrum is realized throu
 [Press-News](https://press-news.org/158275-using-ships-themselves-to-monitor-and-predict-waves.html), 
 [One American Northwest Arkansas](https://oanwa.com/science/using-ships-themselves-to-monitor-and-predict-waves/), 
 [WorldNewsEra](https://worldnewsera.com/news/science/using-ships-themselves-to-monitor-and-predict-waves/)
+[PopularMechanics](https://www.popularmechanics.com/science/math/a37518117/math-helps-cargo-ships-see-into-future/)
