@@ -6,7 +6,7 @@ title: Zhengru Ren
 superuser: true
 
 # Role/position/tagline
-role: Postdoc
+role: ---
 
 # Organizations/Affiliations to show in About widget
 organizations:
