@@ -5,13 +5,13 @@ title: Zhengru Ren
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: ---
+# # Role/position/tagline
+# role: Professor
 
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Department of Marine Technology, Norwegian University of Science and Technology (NTNU)
-  url: https://www.ntnu.edu/
+# # Organizations/Affiliations to show in About widget
+# organizations:
+# - name: Department of Marine Technology, Norwegian University of Science and Technology (NTNU)
+#   url: https://www.ntnu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nonlinear control theory, sensor fusion, marine operations, and offshore wind turbines.
