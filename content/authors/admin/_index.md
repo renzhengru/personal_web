@@ -75,7 +75,7 @@ email: ""
 highlight_name: true
 ---
 
-I received the B.Eng. degree in naval architecture and offshore engineering from the Dalian University of Technology, Dalian, China, in 2012, and the M.Sc. and Ph.D. degrees in marine technology from the Norwegian University of Science and Technology (NTNU), Trondheim, Norway, in 2015 and 2019, respectively. From April to August 2019, I was a Researcher with the Department of Ocean Operations and Civil Engineering, NTNU. I am currently a Postdoctoral Research Fellow with the Centre for Research-based Innovation on Marine Operations (SFI MOVE), Department of Marine Technology, NTNU. 
+I received the B.Eng. degree in naval architecture and offshore engineering from the Dalian University of Technology, Dalian, China, in 2012, and the M.Sc. and Ph.D. degrees in marine technology from the Norwegian University of Science and Technology (NTNU), Trondheim, Norway, in 2015 and 2019, respectively. From April to August 2019, I was a Researcher with the Department of Ocean Operations and Civil Engineering, NTNU. From 2019 to 2021, I was a Postdoctoral Research Fellow with the Centre for Research-based Innovation on Marine Operations (SFI MOVE), Department of Marine Technology, NTNU. 
 
 My research focuses on automation and digitalization in marine operations, especially on marine surface vessels and offshore wind turbines (OWTs). The major tasks of my Ph.D. study and PostDoc work focus on applying various control theories and sensor fusion techniques to enhance the automation level of various onboard control systems and improve the safety and efficiency in marine operations and renewable wind energy. 
 
