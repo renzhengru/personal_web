@@ -6,12 +6,21 @@ title: Zhengru Ren
 superuser: true
 
 # Role/position/tagline
+<<<<<<< HEAD
 role: Asssistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Institute for Ocean Engineering, Shenzhen International Graduate School, Tsinghua University
   url: https://www.tsinghua.edu.cn
+=======
+role: ---
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Department of Marine Technology, Norwegian University of Science and Technology (NTNU)
+  url: https://www.ntnu.edu/
+>>>>>>> parent of 3e47c27 (Update _index.md)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nonlinear control theory, sensor fusion, marine operations, and offshore wind turbines.
