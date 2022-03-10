@@ -23,8 +23,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant professor
-    company: Institute for Ocean Engineering, Shenzhen International Graduate School, Tsinghua University
-    company_url: ''
     location: Shenzhen, China
     date_start: '2022-02-28'
     date_end: '2100-10-30'
