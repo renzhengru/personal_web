@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Assistant professor
     company: Institute for Ocean Engineering, Shenzhen International Graduate School, Tsinghua University
-    company_url: 'www.sigs.tsinghua.edu.cn/'
 
   - title: Postdoc research fellow
     company: Department of Marine Technology, Centre for Research-based Innovation of Marine Operations (SFI MOVE)， Norwegian University of Science and Technology (NTNU)
