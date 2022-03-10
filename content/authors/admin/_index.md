@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhengru Ren
+title: Zhengru Ren (任政儒)
 
 # Is this the primary user of the site?
 superuser: true
