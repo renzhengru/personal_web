@@ -27,9 +27,9 @@ experience:
     company_url: ''
     location: Shenzhen, China
     date_start: '2022-02-28'
-    date_end: ' '
+    date_end: '2100-10-30'
     description: '  '
-    
+
   - title: Postdoc research fellow
     company: Department of Marine Technology, Centre for Research-based Innovation of Marine Operations (SFI MOVE)， Norwegian University of Science and Technology (NTNU)
     company_url: 'https://www.ntnu.edu/move'
