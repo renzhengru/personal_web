@@ -8,14 +8,14 @@
 theme: Ocean
 day_night: true
 font: 'Minimal'
-font_size: L
+font_size: m
 
 # SEO
 
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'This is Prof. Zhengru Ren's personal homepage.'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -143,7 +143,7 @@ marketing:
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
-  baidu_tongji: ''
+  baidu_tongji: '7e3abf3b4d936cc38fa9213b19db298b'
 cms:
   branch: master
   local_backend: false
