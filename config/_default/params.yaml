@@ -142,7 +142,7 @@ marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
-  baidu_site_verification: '7e3abf3b4d936cc38fa9213b19db298b'
+  baidu_site_verification: ''
   baidu_tongji: ''
 cms:
   branch: master
