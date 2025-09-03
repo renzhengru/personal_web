@@ -22,14 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Associate professor
-    company: School of Ocean and Civil Engineering, Shanghai Jiao Tong University
-    date_start: '2022-02-28'
-
   - title: Assistant professor
     company: Institute for Ocean Engineering, Shenzhen International Graduate School, Tsinghua University
     date_start: '2022-02-28'
-    date_end: '2025-07-31'
 
   - title: Postdoc research fellow
     company: Department of Marine Technology, Centre for Research-based Innovation of Marine Operations (SFI MOVE)， Norwegian University of Science and Technology (NTNU)
